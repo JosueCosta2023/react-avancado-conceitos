@@ -1,0 +1,17 @@
+.div-Card{
+    width: 500px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+form .btn{
+    width: 500px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+form{
+    margin-bottom: 50px;
+}
